@@ -7,7 +7,7 @@ https://gleac.eastus.cloudapp.azure.com/app
 ## Web API Url 
 https://gleac.eastus.cloudapp.azure.com/api Credentials: prashant@gleac.com | pass123
 
-##cURL Call to authenticate the API:
+## cURL Call to authenticate the API:
 
 curl --location --request POST 'https://gleac.eastus.cloudapp.azure.com/api/Token'
 --header 'Content-Type: application/json'
